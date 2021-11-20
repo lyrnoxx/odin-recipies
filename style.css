@@ -1,4 +1,22 @@
-*{
-    color:red;
-    border:1px solid red;
+
+html{
+    font-family:fantasy;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-evenly;
+
+}
+h1{
+    background-color: rgb(218, 166, 119);
+    color: white;
+    padding: 10px;
+}
+ul{
+    background-color: rgb(218, 166, 119);
+    padding: 10px;
+    
 }
