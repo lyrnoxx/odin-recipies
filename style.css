@@ -1,6 +1,7 @@
 
 html{
     font-family:fantasy;
+    background-color: burlywood;
 }
 
 body{
@@ -12,11 +13,18 @@ body{
 }
 h1{
     background-color: rgb(218, 166, 119);
-    color: white;
+    color:darkolivegreen;
     padding: 10px;
+    border-radius: 20px;
 }
 ul{
     background-color: rgb(218, 166, 119);
     padding: 10px;
     
+}
+ol{
+    width:600px;
+}
+p{
+    width:600px;
 }
